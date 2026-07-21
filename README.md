@@ -3,8 +3,6 @@
 Project Objective
 To analyze a practice COVID-19 dataset and identify trends in confirmed cases, active cases, recoveries, and deaths across different countries. The project aims to demonstrate data cleaning, visualization, and dashboard development skills while generating meaningful insights from healthcare data.
 
-Dataset Used
-Practice COVID-19 Dataset: 
 
 Questions (KPIs)
 What is the total number of confirmed COVID-19 cases?
