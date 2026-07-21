@@ -5,16 +5,15 @@ To analyze a practice COVID-19 dataset and identify trends in confirmed cases, a
 
 
 Questions (KPIs)
-What is the total number of confirmed COVID-19 cases?
-How many active COVID-19 cases are reported?
-How many recoveries have been recorded?
-What is the total number of COVID-19 deaths?
-How many countries are represented in the dataset?
-Which countries have the highest number of confirmed cases?
-Which countries have the highest number of active cases?
-Which countries have the highest number of recoveries?
-Which countries recorded the highest number of deaths?
-How have COVID-19 cases, recoveries, and deaths changed over time?
+•	What is the total number of confirmed COVID-19 cases? 
+•	How many active COVID-19 cases are reported? How many recoveries have been recorded? 
+•	What is the total number of COVID-19 deaths? 
+•	How many countries are represented in the dataset?
+•	Which countries have the highest number of confirmed cases? 
+•	Which countries have the highest number of active cases? 
+•	Which countries have the highest number of recoveries? 
+•	Which countries recorded the highest number of deaths? 
+•	How have COVID-19 cases, recoveries, and deaths changed over time?
 
 Data Cleaning Steps
 ✅ Removed duplicate records.
