@@ -24,15 +24,15 @@ Data Cleaning Steps
 ✅ Corrected data types for accurate calculations and visualizations.
 ✅ Validated key metrics before creating the dashboard.
 
-Key Insights
-The dataset contains COVID-19 records for 201 countries, enabling a broad comparative analysis.
-A small number of countries account for the highest proportion of confirmed cases, highlighting uneven disease distribution.
-Active cases vary significantly across countries, indicating different stages of outbreak progression.
-Recovery trends generally increase alongside confirmed cases, reflecting ongoing patient recovery over time.
-Death rates differ across countries, suggesting variations in healthcare outcomes within the dataset.
-Monthly trend analysis reveals periods of rising and declining case numbers throughout the reporting period.
-Interactive filtering allows users to compare countries and explore trends from different perspectives.
-The dashboard demonstrates how Power BI can transform raw healthcare data into clear, actionable insights.
+Key Insights 
+1.	The dataset contains COVID-19 records for 201 countries, enabling a broad comparative analysis. 
+2.	A small number of countries account for the highest proportion of confirmed cases, highlighting uneven disease distribution. 
+3.	Active cases vary significantly across countries, indicating different stages of outbreak progression. 
+4.	Recovery trends generally increase alongside confirmed cases, reflecting ongoing patient recovery over time. 
+5.	Death rates differ across countries, suggesting variations in healthcare outcomes within the dataset. 
+6.	Monthly trend analysis reveals periods of rising and declining case numbers throughout the reporting period. 
+7.	Interactive filtering allows users to compare countries and explore trends from different perspectives. 
+8.	The dashboard demonstrates how Power BI can transform raw healthcare data into clear, actionable insights.
 
 Dashboard Summary
 This project demonstrates the use of Power BI and Power Query to analyze a practice COVID-19 dataset. The interactive dashboard provides insights into confirmed cases, active cases, recoveries, deaths, country-level performance, and monthly trends. It showcases skills in data cleaning, KPI development, dashboard design, and data storytelling while emphasizing how business intelligence tools can be used to analyze healthcare-related datasets.
