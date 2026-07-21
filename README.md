@@ -1,21 +1,32 @@
 # Covid-19-Project
 
 Project Objective
+
 To analyze a practice COVID-19 dataset and identify trends in confirmed cases, active cases, recoveries, and deaths across different countries. The project aims to demonstrate data cleaning, visualization, and dashboard development skills while generating meaningful insights from healthcare data.
 
 
 Questions (KPIs)
+
 •	What is the total number of confirmed COVID-19 cases? 
+
 •	How many active COVID-19 cases are reported? How many recoveries have been recorded? 
+
 •	What is the total number of COVID-19 deaths? 
+
 •	How many countries are represented in the dataset?
+
 •	Which countries have the highest number of confirmed cases? 
+
 •	Which countries have the highest number of active cases? 
+
 •	Which countries have the highest number of recoveries? 
+
 •	Which countries recorded the highest number of deaths? 
+
 •	How have COVID-19 cases, recoveries, and deaths changed over time?
 
 Data Cleaning Steps
+
 ✅ Removed duplicate records.
 
 ✅ Handled missing and inconsistent values.
@@ -31,6 +42,7 @@ Data Cleaning Steps
 ✅ Validated key metrics before creating the dashboard.
 
 Key Insights 
+
 1.	The dataset contains COVID-19 records for 201 countries, enabling a broad comparative analysis. 
 2.	A small number of countries account for the highest proportion of confirmed cases, highlighting uneven disease distribution. 
 3.	Active cases vary significantly across countries, indicating different stages of outbreak progression. 
@@ -41,4 +53,5 @@ Key Insights
 8.	The dashboard demonstrates how Power BI can transform raw healthcare data into clear, actionable insights.
 
 Dashboard Summary
+
 This project demonstrates the use of Power BI and Power Query to analyze a practice COVID-19 dataset. The interactive dashboard provides insights into confirmed cases, active cases, recoveries, deaths, country-level performance, and monthly trends. It showcases skills in data cleaning, KPI development, dashboard design, and data storytelling while emphasizing how business intelligence tools can be used to analyze healthcare-related datasets.
