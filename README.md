@@ -17,11 +17,17 @@ Questions (KPIs)
 
 Data Cleaning Steps
 ✅ Removed duplicate records.
+
 ✅ Handled missing and inconsistent values.
+
 ✅ Standardized country names and text formatting.
+
 ✅ Renamed columns for consistency and readability.
+
 ✅ Converted date fields into the correct date format.
+
 ✅ Corrected data types for accurate calculations and visualizations.
+
 ✅ Validated key metrics before creating the dashboard.
 
 Key Insights 
